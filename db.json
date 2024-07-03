@@ -1,5 +1,5 @@
 {
-  "tickets": [
+  "flights": [
     {
       "date": "2024-07-01",
       "capacity": 6666,
@@ -13,16 +13,16 @@
       "code": "678"
     },
     {
-      "date": "2024-07-16",
-      "capacity": 1000,
-      "code": "67",
-      "id": "16c1"
-    },
-    {
       "date": "2024-07-03",
       "capacity": 34,
       "code": "pa4",
       "id": "RM0yVdN"
+    },
+    {
+      "date": "2024-07-03",
+      "capacity": 2,
+      "code": "ctd",
+      "id": "2fa7_d7"
     }
   ],
   "users": [
@@ -37,6 +37,12 @@
       "password": "$2a$10$N0./4sigPUuMjjMoMck/lOoC6zDKHsdBhryi58HRh7WhpOVRr/bhy",
       "fullName": "ahmed alsharkawy",
       "id": 2
+    },
+    {
+      "email": "henar@gmail.com",
+      "password": "$2a$10$xInc9dPCRO2CdGBbUBBhkeWzn0LaoJCqcRQAcJDj9r4Ti/afLd.ea",
+      "fullName": "henar samir",
+      "id": 3
     }
   ]
 }
